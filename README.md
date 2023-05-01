@@ -7,8 +7,7 @@ The UK Food Standards Agency evaluates various establishments across the United 
 
 ## Part 2: Update the Database
 
-The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the following changes to the establishments collection:
-
+The magazine editors have some requested modifications for the database .
 An exciting new halal restaurant just opened in Greenwich, but hasn't been rated yet. It is included it the analysis. 
 
 ## Part 3: Exploratory Analysis
